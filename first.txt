@@ -1,8 +1,7 @@
 first file
 after hard reset
-
-
-
 one the new branch
 one master
 second on newbranch
+second on master
+
