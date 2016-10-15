@@ -3,3 +3,6 @@ after hard reset
 
 
 
+one the new branch
+one master
+second on newbranch
